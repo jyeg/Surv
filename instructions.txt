@@ -1,0 +1,15 @@
+Angular Shopping List Instructions
+
+1) Replace the hardcoded shopping list with items retrieved from the mock REST endpoint: http://demo3374525.mockable.io/shopping-list
+   There are no mock REST endpoints for adding or deleting items so just manage this data locally using the add and delete functions in the service
+   (We’ll just pretend that we’re making server calls to persist the changes)
+
+2) Add functionality to remove items from the shopping list
+
+3) Add functionality to add new items to the shopping list
+
+4) Add functionality to sort the items by name or type by clicking on the table header links
+
+5) Add functionality to search (filter) by item or type name
+
+6) Add pagination so that only 10 items are displayed on the page at a time
